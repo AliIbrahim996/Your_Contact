@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/account"
+        android:icon="@drawable/account_48px"
+        android:title="حسابي" />
+    <item
+        android:id="@+id/tasks"
+        android:icon="@drawable/list_48px"
+        android:title="مهامي" />
+    <item
+        android:id="@+id/draw"
+        android:icon="@drawable/drawing_48px"
+        android:title="ارسم" />
+    <item
+        android:id="@+id/math"
+        android:icon="@drawable/math_48px"
+        android:title="مسائل" />
+    <item
+        android:id="@+id/chat"
+        android:icon="@drawable/chat_48px"
+        android:title="محادثة" />
+
+</menu>

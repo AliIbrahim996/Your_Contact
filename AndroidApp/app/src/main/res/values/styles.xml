@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@drawable/btn</item>
+    </style>
+
+    <style name="AdminThem" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@drawable/btn</item>
+    </style>
+    <style name="myTheme" parent="@style/Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/app_color</item>
+        <item name="colorPrimaryDark">@color/app_color2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="buttonStyle">@drawable/btn</item>
+    </style>
+</resources>
